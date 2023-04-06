@@ -1,0 +1,1 @@
+a vite plugin to preprocess
